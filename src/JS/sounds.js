@@ -1,0 +1,5 @@
+export const audioForest = new Audio('./src/sounds/Floresta.wav')
+export const audioRain = new Audio('./src/sounds/Chuva.wav')
+export const audioCoffe = new Audio('./src/sounds/Cafeteria.wav')
+export const audioFire = new Audio('./src/sounds/Lareira.wav')
+export const kitchenTimer = new Audio('./src/sounds/kichen-timer.mp3')
